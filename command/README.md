@@ -1,1 +1,1 @@
-bandit 0 : Συνδέθηκα στο ssh bandit0@bandit.labs.overthewire.org -p 2220 και έβαλα τον κωδικό bandit0.
+bandit 0-1 : Συνδέθηκα στο ssh bandit0@bandit.labs.overthewire.org -p 2220 και έβαλα τον κωδικό bandit0. Με την εντολή ls βρηκα τον φάκελο readme και με την εντολή cat σε αυτο το αρχείο εκτυπώθηκε ο κωδικός για το bandit 1.
