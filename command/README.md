@@ -1,2 +1,3 @@
 bandit 0-1 : Συνδέθηκα στο ssh bandit0@bandit.labs.overthewire.org -p 2220 και έβαλα τον κωδικό bandit0. Με την εντολή ls βρηκα τον φάκελο readme και με την εντολή cat σε αυτο το αρχείο εκτυπώθηκε ο κωδικός για το bandit 1.
-bandit 1-2 :Σύμφωνα με τις οδηγιες ο κωδικός για το level 2  βρίσκεται στο file "-" με την εντολη cd- εμφανίστηκε το path /home/bandit1 και μετα εκανα cat /home/bandit1/- και μου έδωσε τον κωδικό
+bandit 1-2 :Σύμφωνα με τις οδηγιες ο κωδικός για το level 2  βρίσκεται στο file "-".Με την εντολη cd- εμφανίστηκε το path /home/bandit1 και μετα εκανα cat /home/bandit1/- και μου έδωσε τον κωδικό
+bandit 2-3: Σύμφωνα με τις οδηγίες ο κωδικός για το level 3 βρίσκεται στο file "spaces in this filename" και με την εντολή cat "spaces in this filename" μου εμφανιστηκε ο κωδικός.(Χρησιμοποίησα " " γιατί αλλιως εμφανιζε το (No such file or directory))
